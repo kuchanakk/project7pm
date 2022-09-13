@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-13T19:38:05 IST" name="Default suite" finished-at="2022-09-13T19:39:29 IST" duration-ms="84346">
+    <groups>
+    </groups>
+    <test started-at="2022-09-13T19:38:05 IST" name="Default test" finished-at="2022-09-13T19:39:29 IST" duration-ms="84346">
+      <class name="popItems.PopularItemsTest">
+        <test-method is-config="true" signature="Starttest()[pri:0, instance:popItems.PopularItemsTest@78e4deb0]" started-at="2022-09-13T19:38:05 IST" name="Starttest" finished-at="2022-09-13T19:38:05 IST" duration-ms="553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Starttest -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:popItems.PopularItemsTest@78e4deb0]" started-at="2022-09-13T19:38:05 IST" name="openbrowser" finished-at="2022-09-13T19:38:18 IST" duration-ms="12895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="laptoptest()[pri:0, instance:popItems.PopularItemsTest@78e4deb0]" started-at="2022-09-13T19:38:18 IST" name="laptoptest" finished-at="2022-09-13T19:38:33 IST" duration-ms="14395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laptoptest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:popItems.PopularItemsTest@78e4deb0]" started-at="2022-09-13T19:38:33 IST" name="closebrowser" finished-at="2022-09-13T19:38:35 IST" duration-ms="2084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:popItems.PopularItemsTest@78e4deb0]" started-at="2022-09-13T19:38:35 IST" name="openbrowser" finished-at="2022-09-13T19:38:47 IST" duration-ms="12232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="spktest()[pri:0, instance:popItems.PopularItemsTest@78e4deb0]" started-at="2022-09-13T19:38:47 IST" name="spktest" finished-at="2022-09-13T19:39:05 IST" duration-ms="17836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spktest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:popItems.PopularItemsTest@78e4deb0]" started-at="2022-09-13T19:39:05 IST" name="closebrowser" finished-at="2022-09-13T19:39:06 IST" duration-ms="1670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:popItems.PopularItemsTest@78e4deb0]" started-at="2022-09-13T19:39:06 IST" name="openbrowser" finished-at="2022-09-13T19:39:14 IST" duration-ms="7739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="tablettest()[pri:0, instance:popItems.PopularItemsTest@78e4deb0]" started-at="2022-09-13T19:39:14 IST" name="tablettest" finished-at="2022-09-13T19:39:26 IST" duration-ms="12285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tablettest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:popItems.PopularItemsTest@78e4deb0]" started-at="2022-09-13T19:39:26 IST" name="closebrowser" finished-at="2022-09-13T19:39:28 IST" duration-ms="1574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="endtest()[pri:0, instance:popItems.PopularItemsTest@78e4deb0]" started-at="2022-09-13T19:39:28 IST" name="endtest" finished-at="2022-09-13T19:39:29 IST" duration-ms="932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtest -->
+      </class> <!-- popItems.PopularItemsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
